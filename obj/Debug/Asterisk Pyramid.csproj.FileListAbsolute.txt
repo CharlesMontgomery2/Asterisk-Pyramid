@@ -1,0 +1,7 @@
+C:\Users\cmont\source\repos\Asterisk Pyramid\bin\Debug\Asterisk Pyramid.exe.config
+C:\Users\cmont\source\repos\Asterisk Pyramid\bin\Debug\Asterisk Pyramid.exe
+C:\Users\cmont\source\repos\Asterisk Pyramid\bin\Debug\Asterisk Pyramid.pdb
+C:\Users\cmont\source\repos\Asterisk Pyramid\obj\Debug\Asterisk Pyramid.csprojAssemblyReference.cache
+C:\Users\cmont\source\repos\Asterisk Pyramid\obj\Debug\Asterisk Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\cmont\source\repos\Asterisk Pyramid\obj\Debug\Asterisk Pyramid.exe
+C:\Users\cmont\source\repos\Asterisk Pyramid\obj\Debug\Asterisk Pyramid.pdb
