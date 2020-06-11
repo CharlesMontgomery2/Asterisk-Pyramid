@@ -1,0 +1,7 @@
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\bin\Debug\Asterisks_Pyramid.exe.config
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\bin\Debug\Asterisks_Pyramid.exe
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\bin\Debug\Asterisks_Pyramid.pdb
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\obj\Debug\Asterisks_Pyramid.csprojAssemblyReference.cache
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\obj\Debug\Asterisks_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\obj\Debug\Asterisks_Pyramid.exe
+C:\Users\cmont\source\repos\GitHub\C-Projects\.vs\Asterisks_Pyramid\obj\Debug\Asterisks_Pyramid.pdb
