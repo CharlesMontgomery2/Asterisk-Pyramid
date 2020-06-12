@@ -1,0 +1,7 @@
+C:\Users\cmont\source\repos\AlienTalk\obj\Debug\AlienTalk.csprojAssemblyReference.cache
+C:\Users\cmont\source\repos\AlienTalk\obj\Debug\AlienTalk.csproj.CoreCompileInputs.cache
+C:\Users\cmont\source\repos\AlienTalk\bin\Debug\AlienTalk.exe.config
+C:\Users\cmont\source\repos\AlienTalk\bin\Debug\AlienTalk.exe
+C:\Users\cmont\source\repos\AlienTalk\bin\Debug\AlienTalk.pdb
+C:\Users\cmont\source\repos\AlienTalk\obj\Debug\AlienTalk.exe
+C:\Users\cmont\source\repos\AlienTalk\obj\Debug\AlienTalk.pdb
