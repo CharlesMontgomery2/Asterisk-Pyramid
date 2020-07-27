@@ -1,0 +1,7 @@
+C:\Users\charl\source\repos\DisplayName\DisplayName\bin\Debug\DisplayName.exe.config
+C:\Users\charl\source\repos\DisplayName\DisplayName\bin\Debug\DisplayName.exe
+C:\Users\charl\source\repos\DisplayName\DisplayName\bin\Debug\DisplayName.pdb
+C:\Users\charl\source\repos\DisplayName\DisplayName\obj\Debug\DisplayName.csprojAssemblyReference.cache
+C:\Users\charl\source\repos\DisplayName\DisplayName\obj\Debug\DisplayName.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\DisplayName\DisplayName\obj\Debug\DisplayName.exe
+C:\Users\charl\source\repos\DisplayName\DisplayName\obj\Debug\DisplayName.pdb
