@@ -1,0 +1,7 @@
+C:\Users\charl\source\repos\Popsicles\Popsicles\bin\Debug\Popsicles.exe.config
+C:\Users\charl\source\repos\Popsicles\Popsicles\bin\Debug\Popsicles.exe
+C:\Users\charl\source\repos\Popsicles\Popsicles\bin\Debug\Popsicles.pdb
+C:\Users\charl\source\repos\Popsicles\Popsicles\obj\Debug\Popsicles.csprojAssemblyReference.cache
+C:\Users\charl\source\repos\Popsicles\Popsicles\obj\Debug\Popsicles.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\Popsicles\Popsicles\obj\Debug\Popsicles.exe
+C:\Users\charl\source\repos\Popsicles\Popsicles\obj\Debug\Popsicles.pdb
