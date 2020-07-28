@@ -39,7 +39,7 @@ namespace exercises
                         (column == 43 && (row == 1 || row == 2 || row == 6)) ||
                         (column == 47 && (row == 0 || row == 4 || row == 5))))
 
-                        Console.Write("+");
+                        Console.Write("=");
                     else
                         Console.Write("0");
                 }
