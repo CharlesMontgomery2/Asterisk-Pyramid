@@ -1,0 +1,7 @@
+C:\Users\charl\source\repos\FootballYards\FootballYards\bin\Debug\FootballYards.exe.config
+C:\Users\charl\source\repos\FootballYards\FootballYards\bin\Debug\FootballYards.exe
+C:\Users\charl\source\repos\FootballYards\FootballYards\bin\Debug\FootballYards.pdb
+C:\Users\charl\source\repos\FootballYards\FootballYards\obj\Debug\FootballYards.csprojAssemblyReference.cache
+C:\Users\charl\source\repos\FootballYards\FootballYards\obj\Debug\FootballYards.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\FootballYards\FootballYards\obj\Debug\FootballYards.exe
+C:\Users\charl\source\repos\FootballYards\FootballYards\obj\Debug\FootballYards.pdb
